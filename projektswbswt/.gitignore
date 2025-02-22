@@ -1,1 +1,2 @@
 keycloak-12.0.4/*
+!keycloak-12.0.4/version.txt
